@@ -8,7 +8,7 @@ My work covers **obfuscation and deobfuscation, encryption and decryption, rever
 
 I also work across **frontend and backend development**, combining modern web technologies with security-focused engineering and automation.
 
-You can reach me on discord: synthol1g
+You can reach me on discord: **synthol1g**
 
 ---
 
