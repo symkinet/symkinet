@@ -67,6 +67,7 @@ I'm interested in building resilient infrastructure capable of handling modern s
 * ⚡ Reverse Proxy Architecture
 * 📊 Monitoring & Observability
 * 🔒 Secure Service Architecture
+* and more
 
 ---
 
@@ -132,6 +133,7 @@ Currently exploring and building around:
 * 🕵️ OSINT automation
 * ⚙️ Systems-level development
 * 🤖 Security-oriented AI tooling
+* and more
 
 ---
 
