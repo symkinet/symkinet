@@ -2,7 +2,7 @@
 
 ### Software Engineer · Cybersecurity Researcher · Reverse Engineering
 
-I'm a developer focused on **software engineering, cybersecurity engineering, security research and modern web development**, working with current technologies and engineering practices across the full software stack.
+I am known in the community as synthol1g im a developer focused on **software engineering, cybersecurity engineering, security research and modern web development**, working with current technologies and engineering practices across the full software stack.
 
 My work covers **obfuscation and deobfuscation, encryption and decryption, reverse engineering, vulnerability research, application security and network protection**, with a strong focus on understanding how systems work internally and building reliable solutions around them.
 
