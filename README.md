@@ -43,7 +43,7 @@ I also build modern frontend and backend applications, combining software engine
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -53,21 +53,25 @@ I also build modern frontend and backend applications, combining software engine
 
 ---
 
-# 🎧 Currently Playing
+## 🎧 Currently Playing
 
 <div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=a855f7&bar_color_cover=false" />
+
+</div>
 
 <!-- Replace this with your Spotify Now Playing endpoint -->
 
 <a href="#">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=a855f7&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xwhxyg4bfdzzilt4ctqahttnfy&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=a855f7&bar_color_cover=false" />
 </a>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
