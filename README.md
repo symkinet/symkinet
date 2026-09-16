@@ -1,22 +1,85 @@
-# 👋 Hey, I'm synthol1g
+# 👋 Hey, I'm **synthol1g**
 
-### Software Engineer · Cybersecurity Researcher · Reverse Engineering
+### Software Engineer · Cybersecurity Researcher · Reverse Engineer
 
-I am known in the community as synthol1g im a developer focused on **software engineering, cybersecurity engineering, security research and modern web development**, working with current technologies and engineering practices across the full software stack.
+<p align="left">
+  <a href="https://github.com/symkinet">
+    <img src="https://img.shields.io/github/followers/symkinet?label=Followers&style=flat-square&logo=github&color=6e40c9" />
+  </a>
+  <a href="https://github.com/symkinet">
+    <img src="https://img.shields.io/github/stars/symkinet?label=Stars&style=flat-square&logo=github&color=6e40c9" />
+  </a>
+</p>
 
-My work covers **obfuscation and deobfuscation, encryption and decryption, reverse engineering, vulnerability research, application security and network protection**, with a strong focus on understanding how systems work internally and building reliable solutions around them.
+I am known in the community as **synthol1g** — a developer focused on **software engineering, cybersecurity, reverse engineering and modern web development**.
 
-I also work across **frontend and backend development**, combining modern web technologies with security-focused engineering and automation.
+My work revolves around understanding how software and infrastructure work internally, researching their security properties, and building reliable tools around them.
 
-You can reach me on discord: **synthol1g**
+My interests include **obfuscation & deobfuscation, software protection, reverse engineering, vulnerability research, application security, network security, automation and systems engineering**.
+
+I also build modern frontend and backend applications, combining software engineering with security-focused development.
+
+> **Build. Analyze. Research. Secure.**
+
+📫 Discord: **synthol1g**
 
 ---
 
-## 🧩 What I Work With
+# 📊 GitHub Analytics
 
-### 💻 Software Engineering
+<div align="center">
 
-Building modern and fast solutions, services and developer tooling with technologies such as:
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=symkinet&show_icons=true&hide_border=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=00000000" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symkinet&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=a855f7&text_color=c9d1d9&bg_color=00000000" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=symkinet&theme=transparent&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=777777" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=symkinet&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+# 🎧 Currently Playing
+
+<div align="center">
+
+<!-- Replace this with your Spotify Now Playing endpoint -->
+
+<a href="#">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=a855f7&bar_color_cover=false" />
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=symkinet&bg_color=00000000&color=c9d1d9&line=a855f7&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🧩 What I Work With
+
+## 💻 Software Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,react,nextjs,nodejs,fastapi,html,css,tailwind" />
@@ -24,7 +87,9 @@ Building modern and fast solutions, services and developer tooling with technolo
 
 `Python` · `C++` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `FastAPI` · `HTML5` · `CSS3` · `Tailwind CSS`
 
-### 🔐 Security Engineering
+---
+
+## 🔐 Security Engineering
 
 * 🔬 Reverse Engineering
 * 🧩 Obfuscation & Deobfuscation
@@ -37,11 +102,12 @@ Building modern and fast solutions, services and developer tooling with technolo
 * 🌐 Application & Network Security
 * 🚨 Threat Research
 * ⚙️ Security Automation
-* and more
 
-### 🌐 Web Engineering
+---
 
-Designing and developing modern web applications across both frontend and backend:
+## 🌐 Web Engineering
+
+Building modern frontend and backend applications:
 
 * ⚛️ React & Next.js
 * 🔷 TypeScript
@@ -51,65 +117,50 @@ Designing and developing modern web applications across both frontend and backen
 * 🟢 Node.js
 * ⚡ FastAPI
 * 🔌 REST APIs & WebSockets
-* 🗄️ SQL & NoSQL systems
+* 🗄️ SQL & NoSQL
 * 🐳 Docker
-* and more
 
 ---
 
-## 🛡️ Infrastructure & Network Security
+# 🛡️ Infrastructure & Network Security
 
-I'm interested in building resilient infrastructure capable of handling modern security challenges.
+Interested in building resilient infrastructure capable of handling modern security challenges.
 
-* 🌐 Professional Anti-DDoS Architecture
-* 🚦 Traffic Filtering & Rate Limiting
-* 🔥 Firewall & Network Security
-* 📡 Traffic Analysis
-* 🛡️ Infrastructure Hardening
-* ⚡ Reverse Proxy Architecture
-* 📊 Monitoring & Observability
-* 🔒 Secure Service Architecture
-* and more
+`Anti-DDoS Architecture` · `Traffic Filtering` · `Rate Limiting` · `Firewall Security` · `Traffic Analysis` · `Infrastructure Hardening` · `Reverse Proxies` · `Monitoring` · `Observability` · `Secure Architecture`
 
 ---
 
-## 🕵️ Intelligence Research
+# 🕵️ Intelligence Research
 
 ### 🔎 OSINT
 
-Researching and correlating publicly available information through:
-
-`Digital Footprinting` · `Domain Intelligence` · `Infrastructure Research` · `Data Correlation` · `Username Research` · `OSINT Automation`
+`Digital Footprinting` · `Domain Intelligence` · `Infrastructure Research` · `Username Research` · `Data Correlation` · `OSINT Automation`
 
 ### 📱 CSINT
 
-Analysis of not publicly information across breach, leaks, malware logs and more
+Research and analysis of information obtained from **publicly available and legally accessible sources**, including breach disclosures, leaked-data reports and malware intelligence.
 
 ### 🌍 GEOINT
-
-Geospatial research involving:
 
 `Geolocation` · `Image Analysis` · `Satellite Imagery` · `Map Intelligence` · `Geographic Data Correlation`
 
 ---
 
-## 📐 Security Standards & Frameworks
+# 📐 Security Standards & Frameworks
 
-My security-oriented development approach is informed by established industry frameworks and standards, including:
+My security-oriented development approach is informed by established frameworks and standards:
 
 * 🏛️ **NIST Cybersecurity Framework 2.0**
 * 🔐 **ISO/IEC 27001:2022**
-* 🌐 **OWASP Application Security practices**
+* 🌐 **OWASP**
 * 🛡️ **CIS Controls**
-* 🔒 **NIST Secure Software Development Framework (SSDF)**
-
-These provide a foundation for **risk management, secure development, application security, infrastructure protection and continuous security improvement**. NIST CSF 2.0 is designed to help organizations manage cybersecurity risk, while ISO/IEC 27001:2022 specifies requirements for an information security management system.
+* 🔒 **NIST Secure Software Development Framework**
 
 > **Security is not a feature added at the end of development — it is part of the engineering process from the beginning.**
 
 ---
 
-## ⚙️ Engineering Stack
+# ⚙️ Engineering Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,react,nextjs,nodejs,fastapi,html,css,tailwind,mysql,postgres,docker,linux,git,github" />
@@ -117,37 +168,62 @@ These provide a foundation for **risk management, secure development, applicatio
 
 ---
 
-## 🔬 Areas of Interest
+# 🔬 Areas of Interest
 
-`Software Engineering` · `Cybersecurity` · `Reverse Engineering` · `Software Protection` · `Cryptography` · `Exploit Research` · `Network Security` · `Anti-DDoS` · `OSINT` · `CSINT` · `GEOINT` · `Automation` · `Systems Programming` · `Artificial Intelligence`
+`Software Engineering` · `Cybersecurity` · `Reverse Engineering` · `Software Protection` · `Cryptography` · `Vulnerability Research` · `Network Security` · `Anti-DDoS` · `OSINT` · `CSINT` · `GEOINT` · `Automation` · `Systems Programming` · `Artificial Intelligence`
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 Currently exploring and building around:
 
 * 🔐 Advanced software protection
-* 🧩 Obfuscation & deobfuscation techniques
+* 🧩 Obfuscation & deobfuscation
 * 🔬 Reverse engineering
 * 🌐 Secure web architecture
-* 🛡️ Network resilience & DDoS protection
+* 🛡️ Network resilience
 * 🕵️ OSINT automation
 * ⚙️ Systems-level development
 * 🤖 Security-oriented AI tooling
-* and more
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔮 Pyraph Obfuscator
+## 🔮 Pyraph
 
-**Advanced Python Obfuscation & Software Protection**
+### Advanced Python Obfuscation & Software Protection
 
-Pyraph is an advanced **Python obfuscation and software protection solution** designed to make Python applications significantly harder to analyze, reverse engineer and reproduce.
+**Pyraph** is a Python-focused obfuscation and software protection project designed to make applications significantly harder to analyze, reverse engineer and reproduce.
 
-Unlike traditional Python obfuscation approaches, Pyraph focuses on **multi-layered protection and transformation techniques**, combining code transformation with runtime-oriented protection mechanisms to provide a more comprehensive protection model for Python applications.
+The project explores **multi-layered code transformation, runtime protection and software-hardening techniques**, with an emphasis on understanding how different protection mechanisms affect real-world analysis.
+
+---
+
+# 📌 Projects
+
+<div align="center">
+
+<a href="https://github.com/symkinet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=symkinet&repo=Pyraph&theme=transparent&hide_border=true&title_color=a855f7&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+# 🧠 Philosophy
+
+<div align="center">
+
+### **Understand the system.**
+
+### **Break down the problem.**
+
+### **Build the solution.**
+
+</div>
 
 ---
 
