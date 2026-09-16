@@ -43,44 +43,6 @@ I also build modern frontend and backend applications, combining software engine
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=symkinet&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## 🎧 Currently Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=a855f7&bar_color_cover=false" />
-
-</div>
-
-<!-- Replace this with your Spotify Now Playing endpoint -->
-
-<a href="#">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xwhxyg4bfdzzilt4ctqahttnfy&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=a855f7&bar_color_cover=false" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=symkinet&bg_color=00000000&color=c9d1d9&line=a855f7&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
 # 🧩 What I Work With
 
 ## 💻 Software Engineering
